@@ -1,196 +1,180 @@
-\# Crime Data Analysis using Python
+\# 🚔 Crime Data Analysis using Python
 
 
 
-\## Project Overview
-
-
+\## 📌 Project Overview
 
 This project analyzes crime data using Python to identify trends, patterns, and district-wise crime statistics. It includes data cleaning, preprocessing, exploratory data analysis (EDA), visualization, and basic predictive modeling using Linear Regression.
 
 
 
-\## Features
+\---
 
 
 
-\- Data Cleaning
+\## ⚙️ Features
 
-\- Missing Value Analysis
+\- Data Cleaning  
 
-\- Duplicate Removal
+\- Missing Value Analysis  
 
-\- Feature Engineering
+\- Duplicate Removal  
 
-\- Crime Rate Analysis
+\- Feature Engineering  
 
-\- District-wise Analysis
+\- Crime Rate Analysis  
 
-\- Monthly Crime Analysis
+\- District-wise Analysis  
 
-\- Year-wise Crime Analysis
+\- Monthly Crime Analysis  
 
-\- Crime Type Analysis
+\- Year-wise Crime Analysis  
 
-\- Data Visualization
+\- Crime Type Analysis  
 
-\- Linear Regression Model
+\- Data Visualization  
 
-\- KPI Generation
+\- Linear Regression Model  
 
-\- Cleaned Dataset Export
+\- KPI Generation  
 
+\- Cleaned Dataset Export  
 
 
-\## Technologies Used
 
+\---
 
 
-\- Python
 
-\- Pandas
+\## 🛠️ Technologies Used
 
-\- NumPy
+\- Python  
 
-\- Matplotlib
+\- Pandas  
 
-\- Plotly
+\- NumPy  
 
-\- Scikit-learn
+\- Matplotlib  
 
-\- Jupyter Notebook
+\- Plotly  
 
+\- Scikit-learn  
 
+\- Jupyter Notebook  
 
-\## Dataset
 
 
+\---
 
-Dataset:
 
-Crimes\_2001\_to\_present\_sample.csv
 
+\## 📂 Dataset
 
+\*\*Crimes\_2001\_to\_present\_sample.csv\*\*
 
-\## Project Workflow
 
 
+\---
 
-1\. Load Dataset
 
-2\. Data Inspection
 
-3\. Data Cleaning
+\## 🔄 Project Workflow
 
-4\. Data Type Conversion
+1\. Load Dataset  
 
-5\. Datetime Processing
+2\. Data Inspection  
 
-6\. Feature Engineering
+3\. Data Cleaning  
 
-7\. Duplicate Removal
+4\. Data Type Conversion  
 
-8\. Crime Rate Calculation
+5\. Datetime Processing  
 
-9\. Exploratory Data Analysis
+6\. Feature Engineering  
 
-10\. Visualization
+7\. Duplicate Removal  
 
-11\. Linear Regression
+8\. Crime Rate Calculation  
 
-12\. Model Evaluation
+9\. Exploratory Data Analysis  
 
-13\. Export Cleaned Dataset
+10\. Visualization  
 
+11\. Linear Regression  
 
+12\. Model Evaluation  
 
-\## KPIs
+13\. Export Cleaned Dataset  
 
 
 
-\- Total Crimes
+\---
 
-\- Crime Rate by District
 
-\- Crime Rate by Month
 
-\- Top Crime Types
+\## 📊 KPIs
 
-\- Arrest Analysis
+\- Total Crimes  
 
-\- Domestic Crime Analysis
+\- Crime Rate by District  
 
+\- Crime Rate by Month  
 
+\- Top Crime Types  
 
-\## Output
+\- Arrest Analysis  
 
+\- Domestic Crime Analysis  
 
 
-The project generates:
 
+\---
 
 
-\- Crime Frequency Charts
 
-\- Crime Rate Charts
+\## 📈 Output
 
-\- District-wise Analysis
+\- Crime Frequency Charts  
 
-\- KPI Summary
+\- Crime Rate Charts  
 
-\- Linear Regression Results
+\- District-wise Analysis  
 
-\- Cleaned CSV File
+\- KPI Summary  
 
+\- Linear Regression Results  
 
+\- Cleaned CSV File  
 
-\## How to Run
 
 
+\---
 
-1\. Clone the repository
 
 
+\## ▶️ How to Run
 
-2\. Install dependencies
+1\. Clone the repository  
 
+2\. Install dependencies:
 
+&#x20;  ```bash
 
-```bash
+&#x20;  pip install -r requirements.txt
 
-pip install -r requirements.txt
 
-```
 
 
 
-3\. Open Jupyter Notebook
-
-
-
-4\. Run all cells
-
-
-
-\## Future Improvements
-
-
-
-\- SQL Integration
-
-\- Power BI Dashboard
-
-\- Interactive Dashboard
-
-\- Advanced Machine Learning Models
-
-\- Crime Prediction
-
-
-
-\## Author
+👩‍💻 Author
 
 
 
 Shireesha
+
+
+
+
+
+
 
